@@ -1,0 +1,41 @@
+METADATOS EN BASE AL ESTANDAR DCIM 
+(Dublin Core Metadata Initiative, por sus siglas en inglés)
+
+Título: Dataset de Necesidades Básicas Insatisfechas en Bolivia, según el CENSO de 2012
+
+Palabras clave: Pobreza, necesidades, censo, población, umbral de pobreza. 
+Descripción: Estadísticas de pobreza asociados a un estado de necesidad, carencia o privación de los bienes y servicios que determinan la satisfacción de las necesidades básicas de una persona o un hogar, específicamente, se evalúan condiciones de infraestructura de la vivienda, insumos energéticos (acceso a electricidad y combustible para cocinar), niveles educativos y atención de salud de la población. Estos aspectos representan una medida de la pobreza estructural.
+Fuente: Censo de Población y Vivienda de Bolivia de 2012 (Descargar) https://www.ine.gob.bo/index.php/necesidades-basicas-insatisfechas/ 
+Tipo del recurso: Censo de población
+Cobertura Temporal: 2012
+Cobertura Espacial: BOLIVIA (Departamentos: Beni, Pando, Santa Cruz, La Paz, Cochabamba, Tarija, Chuquisaca, Potosí y Oruro)
+Autor: Instituto Nacional de Estadística de Bolivia 
+Editor: Grupo Sirio 2 – Diplomado de datos abiertos y contrataciones abiertas HIVOS – UMSS 2020
+Fecha de modificación: 20 de junio 2020
+Formato: CSV
+Lengua: Español
+Licencia: Creative Commons Attribution License (cc-by)
+
+
+Diccionario de Datos: 
+Campo 	Tipo de elemento	Descripción 
+ID	Numérico		Identificador único 
+Año	Fecha			Año 2012
+País	Caracteres		Bolivia
+Departamento	Caracteres	Departamento de Bolivia donde se ha censado
+Provincia	Caracteres	Provincia dentro del departamento que se ha censado
+Municipio	Caracteres	Municipio dentro de la provincia dentro del departamento que se ha censado
+poblacion_censada		Numérico	Total personas censadas por municipio
+poblacion_satisfecha		Numérico	Personas con nivel de satisfacción mayor a norma
+Poblacion_umbral_pobreza	Numérico	Personas en condiciones de vida aceptables (levemente mayor a norma)
+total_poblacion_no_pobre	Numérico	Sumatoria poblacion_satisfecha + Poblacion_umbral_pobreza
+porcentaje_poblacion_no_pobre	Numérico	total_poblacion_no_pobre * 100 / Total población_censada
+poblacion_pobre_moderada	Numérico	Personas con nivel ligeramente menor a norma
+poblacion_pobre_indigente	Numérico	Personas en condiciones de vida por debajo de norma
+poblacion_pobre_marginal	Numérico	Personas que carecen de niveles de bienestar
+total_poblacion_pobre		Numérico	Sumatoria poblacion_pobre_moderada + poblacion_pobre_indigente + poblacion_pobre_marginal
+porcentaje_poblacion_pobre	Numérico	total_poblacion_pobre * 100 / Total población_censada
+
+
+
+

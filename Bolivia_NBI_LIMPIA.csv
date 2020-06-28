@@ -1,0 +1,340 @@
+id;ano;pais;departamento;provincia;municipio;poblacion_censada;poblacion_satisfecha;poblacion_umbral_pobreza;total_poblacion_no_pobre;porcentaje_poblacion_no_pobre;poblacion_pobre_moderada;poblacion_pobre_indigente;poblacion_pobre_marginal;total_poblacion_pobre;porcentaje_poblacion_pobre
+1;2012;Bolivia;Pando;Nicolas Suarez;Cobija;43189;12847;16999;29846;69,1;12464;871;8;13343;30,9
+2;2012;Bolivia;Pando;Nicolas Suarez;Porvenir;7624;773;3486;4259;55,9;3134;222;9;3365;44,1
+3;2012;Bolivia;Pando;Nicolas Suarez;Bolpebra;2032;81;410;491;24,2;1351;183;7;1541;75,8
+4;2012;Bolivia;Pando;Nicolas Suarez;Bella Flor;3518;370;806;1176;33,4;2000;334;8;2342;66,6
+5;2012;Bolivia;Pando;Manuripi;Puerto Rico;5501;224;1386;1610;29,3;3397;487;7;3891;70,7
+6;2012;Bolivia;Pando;Manuripi;San Pedro;2981;2;67;69;2,3;1692;1130;90;2912;97,7
+7;2012;Bolivia;Pando;Manuripi;Filadelfia;5456;91;1024;1115;20,4;3702;591;48;4341;79,6
+8;2012;Bolivia;Pando;Madre de Dios;Puerto Gonzalo Moreno;7524;185;1069;1254;16,7;5367;903;0;6270;83,3
+9;2012;Bolivia;Pando;Madre de Dios;San Lorenzo;7051;141;799;940;13,3;4996;1081;34;6111;86,7
+10;2012;Bolivia;Pando;Madre de Dios;Sena;8033;8;225;233;2,9;3600;3882;318;7800;97,1
+11;2012;Bolivia;Pando;Abuna;Santa Rosa del Abuna;2161;61;516;577;26,7;1461;120;3;1584;73,3
+12;2012;Bolivia;Pando;Abuna;Ingavi;1616;22;193;215;13,3;1081;290;30;1401;86,7
+13;2012;Bolivia;Pando;Federico Roman;Nueva Esperanza;1771;20;194;214;12,1;1277;280;0;1557;87,9
+14;2012;Bolivia;Pando;Federico Roman;Villa Nueva;2786;68;305;373;13,4;1732;673;8;2413;86,6
+15;2012;Bolivia;Pando;Federico Roman;Santos Mercado;1963;13;91;104;5,3;1288;547;24;1859;94,7
+16;2012;Bolivia;Tarija;Cercado;Tarija;197771;79642;73227;152869;77,3;42019;2837;46;44902;22,7
+17;2012;Bolivia;Tarija;Aniceto Arce;Padcaya;17986;2058;5312;7370;41;9505;1105;6;10616;59
+18;2012;Bolivia;Tarija;Aniceto Arce;Bermejo;32726;9135;13900;23035;70,4;9040;634;17;9691;29,6
+19;2012;Bolivia;Tarija;Gran Chaco;Yacuiba;86784;19335;37571;56906;65,6;26963;2843;72;29878;34,4
+20;2012;Bolivia;Tarija;Gran Chaco;Carapari;13155;1827;5640;7467;56,8;5280;400;8;5688;43,2
+21;2012;Bolivia;Tarija;Gran Chaco;Villamontes;37405;7297;13869;21166;56,6;14898;1328;13;16239;43,4
+22;2012;Bolivia;Tarija;Aviles;Uriondo;14390;1673;4641;6314;43,9;7356;717;3;8076;56,1
+23;2012;Bolivia;Tarija;Aviles;Yunchara;5088;215;1367;1582;31,1;3093;405;8;3506;68,9
+24;2012;Bolivia;Tarija;Mendez;Villa San Lorenzo;23055;4180;7293;11473;49,8;9707;1831;44;11582;50,2
+25;2012;Bolivia;Tarija;Mendez;El Puente;10866;719;3630;4349;40;5771;724;22;6517;60
+26;2012;Bolivia;Tarija;O Connor;Entre Rios;20018;2122;5727;7849;39,2;10274;1865;30;12169;60,8
+27;2012;Bolivia;La Paz;Murillo;La Paz;743491;415617;221412;637029;85,7;97275;8921;266;106462;14,3
+28;2012;Bolivia;La Paz;Murillo;Palca;16408;272;1808;2080;12,7;9036;5161;131;14328;87,3
+29;2012;Bolivia;La Paz;Murillo;Mecapaca;15890;2482;3377;5859;36,9;6539;3395;97;10031;63,1
+30;2012;Bolivia;La Paz;Murillo;Achocalla;21772;1773;4501;6274;28,8;11817;3598;83;15498;71,2
+31;2012;Bolivia;La Paz;Murillo;El Alto;833649;223539;309720;533259;64;267043;32914;433;300390;36
+32;2012;Bolivia;La Paz;Omasuyos;Achacachi;45231;3474;9858;13332;29,5;22450;9154;295;31899;70,5
+33;2012;Bolivia;La Paz;Omasuyos;Ancoraimes;13016;291;1207;1498;11,5;7339;4059;120;11518;88,5
+34;2012;Bolivia;La Paz;Omasuyos;Chua Cocani;4811;390;1243;1633;33,9;2459;689;30;3178;66,1
+35;2012;Bolivia;La Paz;Omasuyos;Huarina;7858;542;1596;2138;27,2;4310;1367;43;5720;72,8
+36;2012;Bolivia;La Paz;Omasuyos;Santiago de Huata;8415;826;1743;2569;30,5;4481;1334;31;5846;69,5
+37;2012;Bolivia;La Paz;Omasuyos;Huatajata;3838;1210;1493;2703;70,4;993;141;1;1135;29,6
+38;2012;Bolivia;La Paz;Pacajes;Corocoro;10242;850;1146;1996;19,5;4691;3435;120;8246;80,5
+39;2012;Bolivia;La Paz;Pacajes;Caquiaviri;14538;233;1047;1280;8,8;7588;5564;106;13258;91,2
+40;2012;Bolivia;La Paz;Pacajes;Calacoto;9753;75;467;542;5,6;4596;4445;170;9211;94,4
+41;2012;Bolivia;La Paz;Pacajes;Comanche;3810;47;280;327;8,6;2155;1301;27;3483;91,4
+42;2012;Bolivia;La Paz;Pacajes;Charaña;2994;112;341;453;15,1;1200;1306;35;2541;84,9
+43;2012;Bolivia;La Paz;Pacajes;Waldo Ballivian;4964;7;404;411;8,3;3603;931;19;4553;91,7
+44;2012;Bolivia;La Paz;Pacajes;Nazacara de Pacajes;599;11;92;103;17,2;377;119;0;496;82,8
+45;2012;Bolivia;La Paz;Pacajes;Callapa;7189;38;156;194;2,7;2510;4238;247;6995;97,3
+46;2012;Bolivia;La Paz;Camacho;Puerto Acosta;11159;426;1149;1575;14,1;4997;4310;277;9584;85,9
+47;2012;Bolivia;La Paz;Camacho;Mocomoco;15390;348;1048;1396;9,1;7630;6094;270;13994;90,9
+48;2012;Bolivia;La Paz;Camacho;Pto. Carabuco;14252;613;1293;1906;13,4;7778;4444;124;12346;86,6
+49;2012;Bolivia;La Paz;Camacho;Humanata;5272;24;238;262;5;2622;2309;79;5010;95
+50;2012;Bolivia;La Paz;Camacho;Escoma;7095;290;879;1169;16,5;4096;1778;52;5926;83,5
+51;2012;Bolivia;La Paz;Muñecas;Chuma;11370;395;1211;1606;14,1;6992;2679;93;9764;85,9
+52;2012;Bolivia;La Paz;Muñecas;Ayata;8178;236;596;832;10,2;5012;2238;96;7346;89,8
+53;2012;Bolivia;La Paz;Muñecas;Aucapata;5369;161;395;556;10,4;3283;1475;55;4813;89,6
+54;2012;Bolivia;La Paz;Larecaja;Sorata;23158;991;3571;4562;19,7;11950;6382;264;18596;80,3
+55;2012;Bolivia;La Paz;Larecaja;Guanay;14255;731;3910;4641;32,6;6828;2487;299;9614;67,4
+56;2012;Bolivia;La Paz;Larecaja;Tacacoma;7804;220;1325;1545;19,8;4610;1573;76;6259;80,2
+57;2012;Bolivia;La Paz;Larecaja;Quiabaya;2598;141;318;459;17,7;1481;637;21;2139;82,3
+58;2012;Bolivia;La Paz;Larecaja;Combaya;3668;112;518;630;17,2;2383;650;5;3038;82,8
+59;2012;Bolivia;La Paz;Larecaja;Tipuani;9673;823;3311;4134;42,7;4890;628;21;5539;57,3
+60;2012;Bolivia;La Paz;Larecaja;Mapiri;13051;563;3374;3937;30,2;8252;849;13;9114;69,8
+61;2012;Bolivia;La Paz;Larecaja;Teoponte;8888;279;1651;1930;21,7;5052;1826;80;6958;78,3
+62;2012;Bolivia;La Paz;Franz Tamayo;Apolo;18372;781;3317;4098;22,3;8254;5625;395;14274;77,7
+63;2012;Bolivia;La Paz;Franz Tamayo;Pelechuco;5892;159;815;974;16,5;3060;1703;155;4918;83,5
+64;2012;Bolivia;La Paz;Ingavi;Viacha;77981;15079;21225;36304;46,6;32306;9178;193;41677;53,4
+65;2012;Bolivia;La Paz;Ingavi;Guaqui;6950;495;1602;2097;30,2;3871;953;29;4853;69,8
+66;2012;Bolivia;La Paz;Ingavi;Tiahuanacu;12039;408;1712;2120;17,6;7363;2512;44;9919;82,4
+67;2012;Bolivia;La Paz;Ingavi;desaguadero;6730;571;2089;2660;39,5;3398;664;8;4070;60,5
+68;2012;Bolivia;La Paz;Ingavi;San Andres de Machaca;5976;65;487;552;9,2;3724;1653;47;5424;90,8
+69;2012;Bolivia;La Paz;Ingavi;Jesus de Machaca;14755;272;1693;1965;13,3;10080;2641;69;12790;86,7
+70;2012;Bolivia;La Paz;Ingavi;Taraco;6527;115;843;958;14,7;4635;923;11;5569;85,3
+71;2012;Bolivia;La Paz;Loayza;Luribay;11011;372;2178;2550;23,2;6430;1965;66;8461;76,8
+72;2012;Bolivia;La Paz;Loayza;Sapahaqui;12305;207;1116;1323;10,8;7251;3563;168;10982;89,2
+73;2012;Bolivia;La Paz;Loayza;Yaco;7189;158;565;723;10,1;4561;1855;50;6466;89,9
+74;2012;Bolivia;La Paz;Loayza;Malla;4976;171;804;975;19,6;3151;826;24;4001;80,4
+75;2012;Bolivia;La Paz;Loayza;Cairoma;11185;571;2068;2639;23,6;6444;2036;66;8546;76,4
+76;2012;Bolivia;La Paz;Inquisivi;Inquisivi;14540;319;689;1008;6,93;6684;6403;445;13532;93,07
+77;2012;Bolivia;La Paz;Inquisivi;Quime;7950;977;2403;3380;42,5;3138;1352;80;4570;57,5
+78;2012;Bolivia;La Paz;Inquisivi;Cajuata;10198;690;2542;3232;31,7;5994;940;32;6966;68,3
+79;2012;Bolivia;La Paz;Inquisivi;Colquiri;18967;1884;3023;4907;25,9;7963;5897;200;14060;74,1
+80;2012;Bolivia;La Paz;Inquisivi;Ichoca;7744;114;533;647;8,4;4097;2921;79;7097;91,6
+81;2012;Bolivia;La Paz;Inquisivi;Villa Libertad Licoma;5458;89;1536;1625;29,8;3040;743;50;3833;70,2
+82;2012;Bolivia;La Paz;Sud Yungas;Chulumani;17369;1669;5460;7129;41;9037;1174;29;10240;59
+83;2012;Bolivia;La Paz;Sud Yungas;Irupana;16616;1229;3449;4678;28,2;9136;2758;44;11938;71,8
+84;2012;Bolivia;La Paz;Sud Yungas;Yanacachi;6167;1263;1723;2986;48,4;2662;489;30;3181;51,6
+85;2012;Bolivia;La Paz;Sud Yungas;Palos Blancos;23708;957;4957;5914;24,9;13713;3908;173;17794;75,1
+86;2012;Bolivia;La Paz;Sud Yungas;La Asunta;39354;658;4405;5063;12,9;21514;12191;586;34291;87,1
+87;2012;Bolivia;La Paz;Los Andes;Pucarani;27909;1115;3845;4960;17,8;15407;7304;238;22949;82,2
+88;2012;Bolivia;La Paz;Los Andes;Laja;24260;572;2849;3421;14,1;13667;6989;183;20839;85,9
+89;2012;Bolivia;La Paz;Los Andes;Batallas;17264;814;3263;4077;23,6;9117;3960;110;13187;76,4
+90;2012;Bolivia;La Paz;Los Andes;Puerto Perez;8043;172;1182;1354;16,8;4864;1768;57;6689;83,2
+91;2012;Bolivia;La Paz;Aroma;Sica Sica;30952;756;4867;5623;18,2;17896;7159;274;25329;81,8
+92;2012;Bolivia;La Paz;Aroma;Umala;8780;207;1036;1243;14,2;4772;2686;79;7537;85,8
+93;2012;Bolivia;La Paz;Aroma;Ayo Ayo;7728;171;920;1091;14,1;4286;2269;82;6637;85,9
+94;2012;Bolivia;La Paz;Aroma;Calamarca;12168;324;1978;2302;18,9;6950;2847;69;9866;81,1
+95;2012;Bolivia;La Paz;Aroma;Patacamaya;22110;1520;5708;7228;32,7;11126;3682;74;14882;67,3
+96;2012;Bolivia;La Paz;Aroma;Colquencha;9757;254;2007;2261;23,2;5941;1512;43;7496;76,8
+97;2012;Bolivia;La Paz;Aroma;Collana;4963;160;1262;1422;28,7;3078;434;29;3541;71,3
+98;2012;Bolivia;La Paz;Nor Yungas;Coroico;18608;1909;4679;6588;35,4;9379;2568;73;12020;64,6
+99;2012;Bolivia;La Paz;Nor Yungas;Coripata;16660;1476;6041;7517;45,1;7991;1121;31;9143;54,9
+100;2012;Bolivia;La Paz;Abel Iturralde;Ixiamas;8217;281;1583;1864;22,7;4720;1495;138;6353;77,3
+101;2012;Bolivia;La Paz;Abel Iturralde;San Buenaventura;8197;565;2585;3150;38,4;4269;766;12;5047;61,6
+102;2012;Bolivia;La Paz;Bautista Saavedra;Charazani;12862;274;824;1098;8,5;7574;4030;160;11764;91,5
+103;2012;Bolivia;La Paz;Bautista Saavedra;Curva;3244;26;347;373;11,5;2018;821;32;2871;88,5
+104;2012;Bolivia;La Paz;Manco Kapac;Copacabana;14367;1147;3690;4837;33,7;7305;2194;31;9530;66,3
+105;2012;Bolivia;La Paz;Manco Kapac;San Pedro de Tiquina;5914;351;1179;1530;25,9;3273;1068;43;4384;74,1
+106;2012;Bolivia;La Paz;Manco Kapac;Tito Yupanqui;6229;37;948;985;15,8;3858;1346;40;5244;84,2
+107;2012;Bolivia;La Paz;Gualberto Villarroel;San Pedro de Curahuara;8720;77;516;593;6,8;5662;2412;53;8127;93,2
+108;2012;Bolivia;La Paz;Gualberto Villarroel;Papel Pampa;6920;37;378;415;6;4593;1874;38;6505;94
+109;2012;Bolivia;La Paz;Gualberto Villarroel;Chacarilla;1988;9;55;64;3,2;1033;857;34;1924;96,8
+110;2012;Bolivia;La Paz;Jose Manuel Pando;Santiago de Machaca;4497;79;557;636;14,1;2782;1064;15;3861;85,9
+111;2012;Bolivia;La Paz;Jose Manuel Pando;Catacora;2852;22;338;360;12,6;1744;740;8;2492;87,4
+112;2012;Bolivia;La Paz;Caranavi;Caranavi;48617;2835;9273;12108;24,9;26911;9198;400;36509;75,1
+113;2012;Bolivia;La Paz;Caranavi;Alto Beni;10793;316;1674;1990;18,4;6200;2506;97;8803;81,6
+114;2012;Bolivia;Oruro;Cercado;Oruro;257696;100676;92833;193509;75,1;56536;7495;156;64187;24,9
+115;2012;Bolivia;Oruro;Cercado;Caracollo;22712;1300;4498;5798;25,5;11628;5163;123;16914;74,5
+116;2012;Bolivia;Oruro;Cercado;El Choro;8605;32;146;178;2,1;4142;4016;269;8427;97,9
+117;2012;Bolivia;Oruro;Cercado;Soracachi;12702;171;1804;1975;15,5;7390;3270;67;10727;84,5
+118;2012;Bolivia;Oruro;Abaroa;Challapata;27046;1706;5561;7267;26,9;12628;6709;442;19779;73,1
+119;2012;Bolivia;Oruro;Abaroa;Quillacas;3906;321;712;1033;26,4;2184;675;14;2873;73,6
+120;2012;Bolivia;Oruro;Carangas;Corque;8849;156;620;776;8,8;4993;2938;142;8073;91,2
+121;2012;Bolivia;Oruro;Carangas;Choque Cota;1806;23;155;178;9,9;1328;297;3;1628;90,1
+122;2012;Bolivia;Oruro;Sajama;Curahuara de Carangas;3846;323;720;1043;27,1;1680;1103;20;2803;72,9
+123;2012;Bolivia;Oruro;Sajama;Turco;5008;278;701;979;19,5;2880;1141;8;4029;80,5
+124;2012;Bolivia;Oruro;Litoral;Huachacalla;633;232;260;492;77,7;138;3;0;141;22,3
+125;2012;Bolivia;Oruro;Litoral;Escara;4188;62;336;398;9,5;2194;1526;70;3790;90,5
+126;2012;Bolivia;Oruro;Litoral;Cruz de Machacamarca;1951;15;193;208;10,7;1117;567;59;1743;89,3
+127;2012;Bolivia;Oruro;Litoral;Yunguyo de Litoral;512;1;38;39;7,6;416;57;0;473;92,4
+128;2012;Bolivia;Oruro;Litoral;Esmeralda;2665;43;536;579;21,7;1779;295;12;2086;78,3
+129;2012;Bolivia;Oruro;Poopo;Poopo;7128;1284;2076;3360;47,1;2837;853;78;3768;52,9
+130;2012;Bolivia;Oruro;Poopo;Pazña;5853;601;1757;2358;40,3;2827;630;38;3495;59,7
+131;2012;Bolivia;Oruro;Poopo;Antequera;3173;974;608;1582;49,9;1177;397;17;1591;50,1
+132;2012;Bolivia;Oruro;Pantaleon Dalence;Huanuni;24046;10520;7745;18265;76;4438;1294;49;5781;24
+133;2012;Bolivia;Oruro;Pantaleon Dalence;Machacamarca;4691;861;1710;2571;54,8;1816;285;19;2120;45,2
+134;2012;Bolivia;Oruro;Ladislao Cabrera;Salinas de Garcia Mendoza;11551;318;1795;2113;18,3;6945;2450;43;9438;81,7
+135;2012;Bolivia;Oruro;Ladislao Cabrera;Pampa Aullagas;2904;74;356;430;14,8;1694;745;35;2474;85,2
+136;2012;Bolivia;Oruro;Sabaya;Sabaya;7685;230;814;1044;13,6;4752;1848;41;6641;86,4
+137;2012;Bolivia;Oruro;Sabaya;Coipasa;864;8;126;134;15,5;712;18;0;730;84,5
+138;2012;Bolivia;Oruro;Sabaya;Chipaya;1883;59;290;349;18,5;1256;267;11;1534;81,5
+139;2012;Bolivia;Oruro;Saucari;Toledo;9818;285;482;767;7,8;5010;3807;234;9051;92,2
+140;2012;Bolivia;Oruro;Tomas Barron;Eucaliptus;5125;357;1348;1705;33,3;2706;700;14;3420;66,7
+141;2012;Bolivia;Oruro;Sur Carangas;Santiago de Andamarca;5049;100;485;585;11,6;3055;1336;73;4464;88,4
+142;2012;Bolivia;Oruro;Sur Carangas;Belen de Andamarca;1945;13;183;196;10,1;1381;353;15;1749;89,9
+143;2012;Bolivia;Oruro;San Pedro de Totora;San Pedro de Totora;5372;45;335;380;7,1;3205;1701;86;4992;92,9
+144;2012;Bolivia;Oruro;Sebastian Pagador;Huari;13548;1095;2519;3614;26,7;6126;3634;174;9934;73,3
+145;2012;Bolivia;Oruro;Mejillones;La Rivera;506;17;66;83;16,4;322;97;4;423;83,6
+146;2012;Bolivia;Oruro;Mejillones;Todos Santos;656;8;64;72;11;354;226;4;584;89
+147;2012;Bolivia;Oruro;Mejillones;Carangas;838;3;17;20;2,4;611;200;7;818;97,6
+148;2012;Bolivia;Oruro;Nor Carangas;Huayllamarca;5346;85;398;483;9;3008;1780;75;4863;91
+149;2012;Bolivia;Santa Cruz;Andres Ibañez;Santa Cruz de la Sierra;1409131;549909;559637;1109546;78,7;286754;12755;76;299585;21,3
+150;2012;Bolivia;Santa Cruz;Andres Ibañez;Cotoca;44335;7162;18118;25280;57;17709;1331;15;19055;43
+151;2012;Bolivia;Santa Cruz;Andres Ibañez;Porongo;15135;3498;3672;7170;47,4;6668;1255;42;7965;52,6
+152;2012;Bolivia;Santa Cruz;Andres Ibañez;La Guardia;87397;17212;39409;56621;64,8;29440;1305;31;30776;35,2
+153;2012;Bolivia;Santa Cruz;Andres Ibañez;El Torno;48586;5635;18030;23665;48,7;21526;3337;58;24921;51,3
+154;2012;Bolivia;Santa Cruz;Warnes;Warnes;94025;17020;36280;53300;56,7;37522;3154;49;40725;43,3
+155;2012;Bolivia;Santa Cruz;Warnes;Okinawa Uno;12066;1561;3885;5446;45,1;6271;340;9;6620;54,9
+156;2012;Bolivia;Santa Cruz;Velasco;San Ignacio de Velasco;50621;4622;11808;16430;32,5;29113;5012;66;34191;67,5
+157;2012;Bolivia;Santa Cruz;Velasco;San Miguel de Velasco;11174;723;2137;2860;25,6;6626;1640;48;8314;74,4
+158;2012;Bolivia;Santa Cruz;Velasco;San Rafael;5583;313;1279;1592;28,5;3345;636;10;3991;71,5
+159;2012;Bolivia;Santa Cruz;Ichilo;Buena Vista;12435;1293;3892;5185;41,7;6185;1040;25;7250;58,3
+160;2012;Bolivia;Santa Cruz;Ichilo;San Carlos;19557;1679;6000;7679;39,3;9873;1949;56;11878;60,7
+161;2012;Bolivia;Santa Cruz;Ichilo;Yapacani;48734;3646;12676;16322;33,5;23802;7973;637;32412;66,5
+162;2012;Bolivia;Santa Cruz;Ichilo;San Juan de Yapacani;8131;1394;2441;3835;47,2;3517;767;12;4296;52,8
+163;2012;Bolivia;Santa Cruz;Chiquitos;San Jose de Chiquitos;21615;3365;8041;11406;52,8;8913;1283;13;10209;47,2
+164;2012;Bolivia;Santa Cruz;Chiquitos;Pailon;36070;6761;11697;18458;51,2;15858;1714;40;17612;48,8
+165;2012;Bolivia;Santa Cruz;Chiquitos;Robore;14588;3377;5545;8922;61,2;5016;630;20;5666;38,8
+166;2012;Bolivia;Santa Cruz;Sara;Portachuelo;17346;5392;6531;11923;68,7;5045;372;6;5423;31,3
+167;2012;Bolivia;Santa Cruz;Sara;Santa Rosa del Sara;18846;885;3924;4809;25,5;11052;2921;64;14037;74,5
+168;2012;Bolivia;Santa Cruz;Sara;Colpa Belgica;5962;1206;2429;3635;61;2011;308;8;2327;39
+169;2012;Bolivia;Santa Cruz;Cordillera;Lagunillas;5062;350;981;1331;26,3;3110;608;13;3731;73,7
+170;2012;Bolivia;Santa Cruz;Cordillera;Charagua;30431;2125;6869;8994;29,6;18150;3248;39;21437;70,4
+171;2012;Bolivia;Santa Cruz;Cordillera;Cabezas;24771;1441;5737;7178;29;15733;1834;26;17593;71
+172;2012;Bolivia;Santa Cruz;Cordillera;Cuevo;4761;579;1398;1977;41,5;2218;497;69;2784;58,5
+173;2012;Bolivia;Santa Cruz;Cordillera;Gutierrez;11823;313;1224;1537;13;8291;1972;23;10286;87
+174;2012;Bolivia;Santa Cruz;Cordillera;Camiri;32762;10996;12110;23106;70,5;8800;826;30;9656;29,5
+175;2012;Bolivia;Santa Cruz;Cordillera;Boyuibe;4881;511;1392;1903;39;2536;442;0;2978;61
+176;2012;Bolivia;Santa Cruz;Vallegrande;Vallegrande;16608;4376;5051;9427;56,8;5752;1390;39;7181;43,2
+177;2012;Bolivia;Santa Cruz;Vallegrande;Trigal;2067;366;768;1134;54,9;843;90;0;933;45,1
+178;2012;Bolivia;Santa Cruz;Vallegrande;Moro Moro;2742;321;723;1044;38,1;1426;272;0;1698;61,9
+179;2012;Bolivia;Santa Cruz;Vallegrande;Postrer Valle;2284;399;501;900;39,4;922;444;18;1384;60,6
+180;2012;Bolivia;Santa Cruz;Vallegrande;Pucara;2043;373;312;685;33,5;1007;340;11;1358;66,5
+181;2012;Bolivia;Santa Cruz;Florida;Samaipata;10087;1485;3547;5032;49,9;4172;867;16;5055;50,1
+182;2012;Bolivia;Santa Cruz;Florida;Pampa Grande;9047;767;2843;3610;39,9;4620;796;21;5437;60,1
+183;2012;Bolivia;Santa Cruz;Florida;Mairana;9951;1378;3655;5033;50,6;4314;592;12;4918;49,4
+184;2012;Bolivia;Santa Cruz;Florida;Quirusillas;2882;207;958;1165;40,4;1526;187;4;1717;59,6
+185;2012;Bolivia;Santa Cruz;Obispo Santiestevan;Montero;106019;29125;44318;73443;69,3;30478;2067;31;32576;30,7
+186;2012;Bolivia;Santa Cruz;Obispo Santiestevan;Gral. Saavedra;13776;1381;3823;5204;37,8;7643;907;22;8572;62,2
+187;2012;Bolivia;Santa Cruz;Obispo Santiestevan;Mineros;22676;3976;6832;10808;47,7;10535;1291;42;11868;52,3
+188;2012;Bolivia;Santa Cruz;Obispo Santiestevan;Fernandez Alonso;13672;1195;4677;5872;42,9;7082;696;22;7800;57,1
+189;2012;Bolivia;Santa Cruz;Obispo Santiestevan;San Pedro;15931;1184;5965;7149;44,9;8362;412;8;8782;55,1
+190;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;Concepcion;18327;1155;3204;4359;23,8;11139;2789;40;13968;76,2
+191;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;San Javier;13305;854;2807;3661;27,5;7981;1643;20;9644;72,5
+192;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;San Ramon;6909;545;1703;2248;32,5;3705;943;13;4661;67,5
+193;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;San Julian;45902;2021;11049;13070;28,5;28005;4760;67;32832;71,5
+194;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;San Antonio de Lomerio;6436;103;1003;1106;17,2;4545;781;4;5330;82,8
+195;2012;Bolivia;Santa Cruz;Ñuflo de Chavez;Cuatro Cañadas;21250;3053;7294;10347;48,7;10149;734;20;10903;51,3
+196;2012;Bolivia;Santa Cruz;Angel Sandoval;San Matias;13819;1236;3517;4753;34,4;7333;1697;36;9066;65,6
+197;2012;Bolivia;Santa Cruz;Manuel M. Caballero;Comarapa;15648;1665;4419;6084;38,9;7272;2211;81;9564;61,1
+198;2012;Bolivia;Santa Cruz;Manuel M. Caballero;Saipina;7079;598;2123;2721;38,4;3613;711;34;4358;61,6
+199;2012;Bolivia;Santa Cruz;German Busch;Puerto Suarez;18240;3623;8117;11740;64,4;6082;404;14;6500;35,6
+200;2012;Bolivia;Santa Cruz;German Busch;Puerto Quijarro;15543;3468;6660;10128;65,2;5037;375;3;5415;34,8
+201;2012;Bolivia;Santa Cruz;German Busch;Carmen Rivero Torrez;6030;406;1467;1873;31,1;3208;930;19;4157;68,9
+202;2012;Bolivia;Santa Cruz;Guarayos;Ascension de Guarayos;25931;1581;4896;6477;25;16003;3393;58;19454;75
+203;2012;Bolivia;Santa Cruz;Guarayos;Urubicha;6757;123;901;1024;15,2;4919;806;8;5733;84,8
+204;2012;Bolivia;Santa Cruz;Guarayos;El Puente;13779;406;1710;2116;15,4;8348;3195;120;11663;84,6
+205;2012;Bolivia;Potosi;Tomas Frias;Potosi;186467;75035;64344;139379;74,7;40821;6136;131;47088;25,3
+206;2012;Bolivia;Potosi;Tomas Frias;Tinguipaya;26756;225;990;1215;4,5;12012;12453;1076;25541;95,5
+207;2012;Bolivia;Potosi;Tomas Frias;Yocalla;8727;772;2275;3047;34,9;4948;708;24;5680;65,1
+208;2012;Bolivia;Potosi;Tomas Frias;Urmiri;2712;11;125;136;5;1680;866;30;2576;95
+209;2012;Bolivia;Potosi;Rafael Bustillo;Uncia;21350;3367;5112;8479;39,7;9599;3165;107;12871;60,3
+210;2012;Bolivia;Potosi;Rafael Bustillo;Llallagua;39862;11500;13394;24894;62,5;12094;2792;82;14968;37,5
+211;2012;Bolivia;Potosi;Rafael Bustillo;Chuquihuta;7862;540;912;1452;18,5;3169;3125;116;6410;81,5
+212;2012;Bolivia;Potosi;Rafael Bustillo;Chayanta;15793;965;2813;3778;23,9;9086;2822;107;12015;76,1
+213;2012;Bolivia;Potosi;Cornelio Saavedra;Betanzos;33080;1497;6444;7941;24;18952;6051;136;25139;76
+214;2012;Bolivia;Potosi;Cornelio Saavedra;Chaqui;9559;318;1907;2225;23,3;5880;1406;48;7334;76,7
+215;2012;Bolivia;Potosi;Cornelio Saavedra;Tacobamba;11553;103;688;791;6,8;4948;5477;337;10762;93,2
+216;2012;Bolivia;Potosi;Chayanta;Colquechaca;34386;1068;3195;4263;12,4;17803;11475;845;30123;87,6
+217;2012;Bolivia;Potosi;Chayanta;Ravelo;20270;444;1255;1699;8,4;10273;7784;514;18571;91,6
+218;2012;Bolivia;Potosi;Chayanta;Pocoata;25846;458;1929;2387;9,2;13840;8949;670;23459;90,8
+219;2012;Bolivia;Potosi;Chayanta;Ocuri;15621;303;831;1134;7,3;7086;6771;630;14487;92,7
+220;2012;Bolivia;Potosi;Charcas;San Pedro de Buena Vista;29417;678;1291;1969;6,7;10327;15471;1650;27448;93,3
+221;2012;Bolivia;Potosi;Charcas;Toro Toro;10520;365;822;1187;11,3;4633;4307;393;9333;88,7
+222;2012;Bolivia;Potosi;Nor Chichas;Cotagaita;30920;2206;7176;9382;30,3;17835;3594;109;21538;69,7
+223;2012;Bolivia;Potosi;Nor Chichas;Vitichi;10364;353;1603;1956;18,9;7283;1100;25;8408;81,1
+224;2012;Bolivia;Potosi;Alonso de Ibañez;Villa de Sacaca;19189;657;1471;2128;11,1;8443;8276;342;17061;88,9
+225;2012;Bolivia;Potosi;Alonso de Ibañez;Caripuyo;8567;263;693;956;11,2;4599;2924;88;7611;88,8
+226;2012;Bolivia;Potosi;Sur Chichas;Tupiza;42970;10914;15122;26036;60,6;14871;1992;71;16934;39,4
+227;2012;Bolivia;Potosi;Sur Chichas;Atocha;10724;3801;4849;8650;80,7;1748;308;18;2074;19,3
+228;2012;Bolivia;Potosi;Nor Lipez;Colcha K;10961;2124;2578;4702;42,9;5095;1134;30;6259;57,1
+229;2012;Bolivia;Potosi;Nor Lipez;San Pedro de Quemes;951;50;269;319;33,5;539;91;2;632;66,5
+230;2012;Bolivia;Potosi;Sur Lipez;San Pablo de Lipez;2907;95;427;522;18;1852;511;22;2385;82
+231;2012;Bolivia;Potosi;Sur Lipez;Mojinete;1168;43;125;168;14,4;722;274;4;1000;85,6
+232;2012;Bolivia;Potosi;Sur Lipez;San Antonio de Esmoruco;2161;80;317;397;18,4;1337;403;24;1764;81,6
+233;2012;Bolivia;Potosi;Jose Maria Linares;Puna;21240;1036;4669;5705;26,9;13211;2269;55;15535;73,1
+234;2012;Bolivia;Potosi;Jose Maria Linares;Caiza D;11478;819;2966;3785;33;6393;1258;42;7693;67
+235;2012;Bolivia;Potosi;Jose Maria Linares;Ckochas;15517;128;867;995;6,4;8340;5866;316;14522;93,6
+236;2012;Bolivia;Potosi;Antonio Quijarro;Uyuni;28348;5993;8103;14096;49,7;11158;2976;118;14252;50,3
+237;2012;Bolivia;Potosi;Antonio Quijarro;Tomave;14326;740;2657;3397;23,7;7961;2849;119;10929;76,3
+238;2012;Bolivia;Potosi;Antonio Quijarro;Porco;10618;3032;3236;6268;59;3094;1163;93;4350;41
+239;2012;Bolivia;Potosi;Bernardino Bilbao Rioja;Arampampa;4076;138;266;404;9,9;2112;1491;69;3672;90,1
+240;2012;Bolivia;Potosi;Bernardino Bilbao Rioja;Acasio;6027;272;769;1041;17,3;3596;1350;40;4986;82,7
+241;2012;Bolivia;Potosi;Daniel Campos;Llica;3904;356;971;1327;34;2133;443;1;2577;66
+242;2012;Bolivia;Potosi;Daniel Campos;Tahua;1647;99;411;510;31;896;236;5;1137;69
+243;2012;Bolivia;Potosi;Modesto Omiste;Villazon;42980;6131;17680;23811;55,4;16622;2493;54;19169;44,6
+244;2012;Bolivia;Potosi;Enrique Baldivieso;San Agustin;1618;58;402;460;28,4;983;174;1;1158;71,6
+245;2012;Bolivia;Beni;Cercado;Trinidad;102098;27812;35140;62952;61,7;36222;2851;73;39146;38,3
+246;2012;Bolivia;Beni;Cercado;San Javier;5203;213;693;906;17,4;3449;834;14;4297;82,6
+247;2012;Bolivia;Beni;Vaca Diez;Riberalta;85876;13248;22211;35459;41,3;43062;7195;160;50417;58,7
+248;2012;Bolivia;Beni;Vaca Diez;Guayaramerin;39787;10138;14445;24583;61,8;13867;1310;27;15204;38,2
+249;2012;Bolivia;Beni;Jose Ballivian;Reyes;12816;1119;3042;4161;32,5;6559;1980;116;8655;67,5
+250;2012;Bolivia;Beni;Jose Ballivian;San Borja;39519;2700;7801;10501;26,6;17150;9645;2223;29018;73,4
+251;2012;Bolivia;Beni;Jose Ballivian;Santa Rosa;9249;555;2128;2683;29;5556;952;58;6566;71
+252;2012;Bolivia;Beni;Jose Ballivian;Rurrenabaque;18134;2286;5550;7836;43,2;8146;1961;191;10298;56,8
+253;2012;Bolivia;Beni;Yacuma;Santa Ana de Yacuma;17812;2380;5539;7919;44,5;7859;1784;250;9893;55,5
+254;2012;Bolivia;Beni;Yacuma;Exaltacion;5971;77;561;638;10,7;3926;1302;105;5333;89,3
+255;2012;Bolivia;Beni;Moxos;San Ignacio;20429;1019;4036;5055;24,7;11320;3423;631;15374;75,3
+256;2012;Bolivia;Beni;Marban;Loreto;3700;172;512;684;18,5;1989;931;96;3016;81,5
+257;2012;Bolivia;Beni;Marban;San Andres;11720;334;1729;2063;17,6;7818;1777;62;9657;82,4
+258;2012;Bolivia;Beni;Mamore;San Joaquin;6493;655;1709;2364;36,4;3560;557;12;4129;63,6
+259;2012;Bolivia;Beni;Mamore;San Ramon;4723;542;1314;1856;39,3;2524;337;6;2867;60,7
+260;2012;Bolivia;Beni;Mamore;Puerto Siles;831;29;124;153;18,4;558;119;1;678;81,6
+261;2012;Bolivia;Beni;Itenez;Magdalena;10944;1115;2814;3929;35,9;6283;728;4;7015;64,1
+262;2012;Bolivia;Beni;Itenez;Baures;5439;332;1418;1750;32,2;3220;459;10;3689;67,8
+263;2012;Bolivia;Beni;Itenez;Huacaraje;3989;190;707;897;22,5;2815;276;1;3092;77,5
+264;2012;Bolivia;Cochabamba;Cercado;Cochabamba;616036;248131;192065;440196;71,5;157298;18144;398;175840;28,5
+265;2012;Bolivia;Cochabamba;Campero;Aiquile;22853;2383;4681;7064;30,9;10204;5197;388;15789;69,1
+266;2012;Bolivia;Cochabamba;Campero;Pasorapa;6773;221;1876;2097;31;3622;1018;36;4676;69
+267;2012;Bolivia;Cochabamba;Campero;Omereque;5558;252;1432;1684;30,3;3362;481;31;3874;69,7
+268;2012;Bolivia;Cochabamba;Ayopaya;Independencia;23183;841;2311;3152;13,6;10719;8458;854;20031;86,4
+269;2012;Bolivia;Cochabamba;Ayopaya;Morochata;12611;205;744;949;7,5;6666;4736;260;11662;92,5
+270;2012;Bolivia;Cochabamba;Ayopaya;Cocapata;17430;91;480;571;3,3;9116;7340;403;16859;96,7
+271;2012;Bolivia;Cochabamba;Esteban Arce;Tarata;7722;1331;2301;3632;47;3115;910;65;4090;53
+272;2012;Bolivia;Cochabamba;Esteban Arce;Anzaldo;7050;515;568;1083;15,4;3662;2178;127;5967;84,6
+273;2012;Bolivia;Cochabamba;Esteban Arce;Arbieto;16909;1909;5109;7018;41,5;7753;2055;83;9891;58,5
+274;2012;Bolivia;Cochabamba;Esteban Arce;Sacabamba;4249;78;510;588;13,8;2661;972;28;3661;86,2
+275;2012;Bolivia;Cochabamba;Arani;Arani;9273;1491;3219;4710;50,8;3763;782;18;4563;49,2
+276;2012;Bolivia;Cochabamba;Arani;Vacas;8750;262;1272;1534;17,5;5724;1459;33;7216;82,5
+277;2012;Bolivia;Cochabamba;Arque;Arque;10352;82;396;478;4,6;5354;4269;251;9874;95,4
+278;2012;Bolivia;Cochabamba;Arque;Tacopaya;9784;94;628;722;7,4;5889;3049;124;9062;92,6
+279;2012;Bolivia;Cochabamba;Capinota;Capinota;19041;2850;5472;8322;43,7;7985;2599;135;10719;56,3
+280;2012;Bolivia;Cochabamba;Capinota;Santivañez;6279;681;2023;2704;43,1;2794;731;50;3575;56,9
+281;2012;Bolivia;Cochabamba;Capinota;Sicaya;3680;77;518;595;16,2;2102;925;58;3085;83,8
+282;2012;Bolivia;Cochabamba;German Jordan;Cliza;21598;4422;9546;13968;64,7;6986;631;13;7630;35,3
+283;2012;Bolivia;Cochabamba;German Jordan;Toco;6987;452;2213;2665;38,1;3739;561;22;4322;61,9
+284;2012;Bolivia;Cochabamba;German Jordan;Tolata;5092;754;2179;2933;57,6;2016;141;2;2159;42,4
+285;2012;Bolivia;Cochabamba;Quillacollo;Quillacollo;133971;48550;47559;96109;71,7;33289;4386;187;37862;28,3
+286;2012;Bolivia;Cochabamba;Quillacollo;Sipe Sipe;40461;6123;13411;19534;48,3;16598;3905;424;20927;51,7
+287;2012;Bolivia;Cochabamba;Quillacollo;Tiquipaya;52373;14507;19571;34078;65,1;15742;2398;155;18295;34,9
+288;2012;Bolivia;Cochabamba;Quillacollo;Vinto;51012;11575;17556;29131;57,1;18883;2840;158;21881;42,9
+289;2012;Bolivia;Cochabamba;Quillacollo;Colcapirhua;50951;23225;19032;42257;82,9;8300;392;2;8694;17,1
+290;2012;Bolivia;Cochabamba;Chapare;Sacaba;168328;48562;58681;107243;63,7;53663;7184;238;61085;36,3
+291;2012;Bolivia;Cochabamba;Chapare;Colomi;18493;968;4013;4981;26,9;9418;3839;255;13512;73,1
+292;2012;Bolivia;Cochabamba;Chapare;Villa Tunari;67922;2589;11930;14519;21,4;38412;14051;940;53403;78,6
+293;2012;Bolivia;Cochabamba;Tapacari;Tapacari;24141;264;975;1239;5,1;10245;11438;1219;22902;94,9
+294;2012;Bolivia;Cochabamba;Carrasco;Totora;14323;517;1334;1851;12,9;6783;5477;212;12472;87,1
+295;2012;Bolivia;Cochabamba;Carrasco;Pojo;9988;228;829;1057;10,6;5187;3624;120;8931;89,4
+296;2012;Bolivia;Cochabamba;Carrasco;Pocona;10402;191;1221;1412;13,6;7212;1700;78;8990;86,4
+297;2012;Bolivia;Cochabamba;Carrasco;Chimore;20404;1615;5128;6743;33;10271;3231;159;13661;67
+298;2012;Bolivia;Cochabamba;Carrasco;Puerto Villarroel;44915;3098;10822;13920;31;24275;6490;230;30995;69
+299;2012;Bolivia;Cochabamba;Carrasco;Entre Rios;28860;1851;6967;8818;30,6;14673;5070;299;20042;69,4
+300;2012;Bolivia;Cochabamba;Mizque;Mizque;26247;1052;3015;4067;15,5;12997;8523;660;22180;84,5
+301;2012;Bolivia;Cochabamba;Mizque;Vila Vila;5350;88;352;440;8,2;2415;2377;118;4910;91,8
+302;2012;Bolivia;Cochabamba;Mizque;Alalay;3394;13;92;105;3,1;1711;1522;56;3289;96,9
+303;2012;Bolivia;Cochabamba;Punata;Punata;28370;6383;12357;18740;66,1;8930;693;7;9630;33,9
+304;2012;Bolivia;Cochabamba;Punata;Villa Rivero;8016;786;1832;2618;32,7;4624;761;13;5398;67,3
+305;2012;Bolivia;Cochabamba;Punata;San Benito;13228;1866;5540;7406;56;5154;649;19;5822;44
+306;2012;Bolivia;Cochabamba;Punata;Tacachi;1281;150;279;429;33,5;789;63;0;852;66,5
+307;2012;Bolivia;Cochabamba;Punata;Cuchumuela;2750;133;494;627;22,8;1677;443;3;2123;77,2
+308;2012;Bolivia;Cochabamba;Bolivar;Bolivar;7093;101;366;467;6,6;3983;2444;199;6626;93,4
+309;2012;Bolivia;Cochabamba;Tiraque;Tiraque;20817;577;3425;4002;19,2;12922;3755;138;16815;80,8
+310;2012;Bolivia;Cochabamba;Tiraque;Shinahota;19988;1154;5475;6629;33,2;10245;3000;114;13359;66,8
+311;2012;Bolivia;Chuquisaca;Oropeza;Sucre;251648;102411;81616;184027;73,1;56260;10911;450;67621;26,9
+312;2012;Bolivia;Chuquisaca;Oropeza;Yotala;8964;1197;2890;4087;45,6;4289;580;8;4877;54,4
+313;2012;Bolivia;Chuquisaca;Oropeza;Poroma;16962;144;544;688;4,1;8051;7728;495;16274;95,9
+314;2012;Bolivia;Chuquisaca;Juana Azurduy de Padilla;Azurduy;10269;481;777;1258;12,3;4252;4602;157;9011;87,7
+315;2012;Bolivia;Chuquisaca;Juana Azurduy de Padilla;Tarvita;13974;623;1203;1826;13,1;7234;4789;125;12148;86,9
+316;2012;Bolivia;Chuquisaca;Jaime Zudañez;Zudañez;10888;802;2434;3236;29,7;5965;1647;40;7652;70,3
+317;2012;Bolivia;Chuquisaca;Jaime Zudañez;Presto;11700;443;1194;1637;14;5172;4551;340;10063;86
+318;2012;Bolivia;Chuquisaca;Jaime Zudañez;Mojocoya;7836;506;1333;1839;23,5;4631;1346;20;5997;76,5
+319;2012;Bolivia;Chuquisaca;Jaime Zudañez;Icla;7500;286;1792;2078;27,7;3710;1628;84;5422;72,3
+320;2012;Bolivia;Chuquisaca;Tomina;Padilla;10013;1050;1854;2904;29;5418;1679;12;7109;71
+321;2012;Bolivia;Chuquisaca;Tomina;Tomina;8209;523;1531;2054;25;5421;725;9;6155;75
+322;2012;Bolivia;Chuquisaca;Tomina;Sopachuy;7088;436;1043;1479;20,9;3898;1674;37;5609;79,1
+323;2012;Bolivia;Chuquisaca;Tomina;Villa Alcala;4801;744;927;1671;34,8;2615;506;9;3130;65,2
+324;2012;Bolivia;Chuquisaca;Tomina;El Villar;4276;316;655;971;22,7;2492;790;23;3305;77,3
+325;2012;Bolivia;Chuquisaca;Hernando Siles;Monteagudo;23104;2993;7077;10070;43,6;9957;2977;100;13034;56,4
+326;2012;Bolivia;Chuquisaca;Hernando Siles;Huacareta;7925;557;1371;1928;24,3;4415;1554;28;5997;75,7
+327;2012;Bolivia;Chuquisaca;Yamparaez;Tarabuco;16502;629;2402;3031;18,4;9274;4054;143;13471;81,6
+328;2012;Bolivia;Chuquisaca;Yamparaez;Yamparaez;9781;401;1881;2282;23,3;5636;1807;56;7499;76,7
+329;2012;Bolivia;Chuquisaca;Nor Cinti;Camargo;14857;2326;3249;5575;37,5;6805;2407;70;9282;62,5
+330;2012;Bolivia;Chuquisaca;Nor Cinti;San Lucas;31611;1228;3548;4776;15,1;16382;10171;282;26835;84,9
+331;2012;Bolivia;Chuquisaca;Nor Cinti;Incahuasi;12684;410;1116;1526;12;5554;5197;407;11158;88
+332;2012;Bolivia;Chuquisaca;Nor Cinti;Villa Charcas;15485;332;1516;1848;11,9;8164;5144;329;13637;88,1
+333;2012;Bolivia;Chuquisaca;Belisario Boeto;Villa Serrano;10723;1225;2299;3524;32,9;5571;1571;57;7199;67,1
+334;2012;Bolivia;Chuquisaca;Sud Cinti;Villa Abecia;3320;396;413;809;24,4;1641;834;36;2511;75,6
+335;2012;Bolivia;Chuquisaca;Sud Cinti;Culpina;17329;652;2112;2764;16;8641;5501;423;14565;84
+336;2012;Bolivia;Chuquisaca;Sud Cinti;Las Carreras;3892;335;762;1097;28,2;2111;670;14;2795;71,8
+337;2012;Bolivia;Chuquisaca;Luis Calvo;Muyupampa;9265;742;2287;3029;32,7;4709;1460;67;6236;67,3
+338;2012;Bolivia;Chuquisaca;Luis Calvo;Huacaya;2424;90;328;418;17,2;1700;295;11;2006;82,8
+339;2012;Bolivia;Chuquisaca;Luis Calvo;Machareti;6673;541;1541;2082;31,2;3849;730;12;4591;68,8

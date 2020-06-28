@@ -1,0 +1,57 @@
+METADATOS EN BASE AL ESTANDAR DCIM 
+(Dublin Core Metadata Initiative, por sus siglas en inglés)
+
+Título: Base de Datos – Proyectos del Ministerio de Desarrollo Rural y Tierras 2005 a 2016
+
+Palabras clave: Agricultura, producción, alimentos, seguridad alimentaria, hortalizas, frutas, ganadería, forestal, municipio, provincia, áreas rurales, agrario, fortalecimiento, bovina, papa, agrícola, rumiantes, seguro agrario, inclusión. 
+Descripción: Base de datos de 5164 entradas correspondientes a los proyectos de apoyo a emprendimientos agrícolas y no agrícolas impulsados desde el Ministerio de Desarrollo Rural y Tierras, extraídos de los 15 conjuntos de datos abiertos en el portal Datos Abiertos Bolivia (datos.gob.bo):
+
+i)	Proyectos de desarrollo económico territorial con inclusión, 2015 y 2016
+ii)	Proyectos de innovación agropecuaria y forestal, 2014-2016
+iii)	Proyectos del seguro agrario, 2013-2015
+iv)	Proyectos de ganadería bovina, 2016
+v)	Proyectos de producción de hortalizas, 2014-2016
+vi)	Proyectos de apoyo a la crianza de rumiantes menores, 2014 y 2016
+vii)	Proyectos de apoyo a la producción de frutas, 2014-2016
+viii)	Proyectos de apoyo a la producción de tomate, 2016
+ix)	Proyectos de fortalecimiento a la producción de papa, 2016
+x)	Proyectos de accesos apoyo a los emprendimientos agrícolas y no agrícolas, 2014 y 2016
+xi)	Proyectos de construcción y mantenimiento de caminos vecinales, 2014 y 2016
+xii)	Proyectos de inversión comunitaria en áreas rurales, 2011-2015
+xiii)	Proyectos de emprendimientos organizados para el desarrollo rural autogestionario, 2009-2016
+xiv)	Proyectos de desarrollo alternativo, 2005-2016
+xv)	Proyectos de producción agropecuaria y forestal no maderable ecológica, 2010-2015
+
+Fuente: https://datos.gob.bo/
+Tipo del recurso: Dataset recopilado – Blog de Investigación
+Relación:
+Cobertura Temporal: 2005 a 2016
+Cobertura Espacial: BOLIVIA (Departamentos: Beni, Pando, Santa Cruz, La Paz, Cochabamba, Tarija, Chuquisaca, Potosí y Oruro)
+Autor: Grupo Sirio 2 – Diplomado de datos abiertos y contrataciones abiertas HIVOS – UMSS 2020
+Editor: Grupo Sirio 2 – Diplomado de datos abiertos y contrataciones abiertas HIVOS – UMSS 2020
+Fecha de modificación: 20 de junio 2020
+Formato: CSV
+Lengua: Español
+Licencia: Creative Commons Attribution License (cc-by)
+
+Diccionario de Datos: 
+
+Campo    	Tipo de elemento	Descripción 
+Departamento	Caracteres/Georef	Departamento de Bolivia al que pertenece el proyecto.
+
+Provincia	Caracteres	Provincia dentro del departamento de Bolivia al que pertenece el proyecto.
+
+Municipio 	Caracteres	Municipio dentro la provincia, dentro el departamento de Bolivia al que pertenece el proyecto.
+
+Descripción 
+Proyecto	Caracteres	Descripción del proyecto específico. Aquí se revisarán proyectos de fortalecimiento, especificados por rubros y metas específicas relacionadas a la temática agropecuaria, agrícola, forestal, caminos y seguro agrario, así como el apoyo a emprendimientos y complejos productivos de ciertos productos (papa, tomate, hortalizas, frutas, y otros).
+
+Beneficiarios	Numérico	Número de personas beneficiarias del proyecto. No se especifica si se engloban beneficiarios directos e indirectos o si se considera solamente a los beneficiarios que conforman la asociación productiva que ha conseguido el apoyo del proyecto.
+
+En este caso el dato de personas beneficiarias es mejor considerarlo por cada proyecto ya que en algunos casos los proyectos tienen más de una fase por lo que puede llegar a haber una mala interpretación al sumar los beneficiarios, ya que son los mismos de fase a fase. 
+ 
+Monto ejecutado 
+en Bs.		Numérico	Monto ejecutado en Bolivianos (moneda local) de acuerdo a lo reportado en las bases por cada proyecto. 
+
+
+
